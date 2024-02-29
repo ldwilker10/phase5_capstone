@@ -55,10 +55,10 @@
 
 ## Repository Structure
 
-├── chest_xray                                                                                                                                    
+├── folder                                                                                                                                 
 ├── draft_models     
 ├── images   
 ├── .gitignore                                                                                                                   
 ├── [README.md](link)                                          
-├── [pneumonia_classification_final_notebook.ipynb](link)       
-└── [pneumonia_image_classification_slides.pdf](link)   
+├── [notebook.ipynb](link)       
+└── [presentation.pdf](link)   
